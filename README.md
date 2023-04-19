@@ -1,5 +1,5 @@
 # primeiro_html
-Repositório criado para alocar a resolução da atividade 2, 5 e 6 de html/css.
+Repositório criado para alocar a resolução das atividades 2, 5 e 6 de html/css.
 Descrição da atividade(codepack) 2: 
 
 Crie o corpo de uma página sobre lugares turísticos na Europa. Nela, você deve focar apenas no conteúdo da página, adicionando textos, cards, imagens, entre outros. 

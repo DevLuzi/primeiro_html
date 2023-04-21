@@ -31,6 +31,7 @@ section.passagens {
   }
   
 h1 {
+    font-family: 'Baloo 2', cursive, PT Sans; 
     font-size: 2rem;
     color: #333333;
     text-align: center;
@@ -56,8 +57,7 @@ li, p {
 
 section.passagens ul {
     list-style: none;
-    display: flex;
-   
+    display: flex;   
     flex-wrap: nowrap;
     max-width: 100%;
   }
